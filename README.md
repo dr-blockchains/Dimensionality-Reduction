@@ -2,7 +2,7 @@
 
 ---
 
-## Stepwise Regression, Lasso Regularization and Genetic Algorithm (Fake Data) :
+## Stepwise Regression, Lasso Regularization, Genetic Algorithm (Fake Data) :
 ![Diagram Simulated Data](Method-Comparison.png "OOS Performance Comparison between Methods with Simulated Data")
 
 
